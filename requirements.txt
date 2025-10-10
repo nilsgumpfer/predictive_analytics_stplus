@@ -1,0 +1,9 @@
+signxai>=1.1.9.2
+tensorflow
+pandas
+matplotlib
+scikit-learn
+statsmodels
+imageio
+numpy
+scipy
