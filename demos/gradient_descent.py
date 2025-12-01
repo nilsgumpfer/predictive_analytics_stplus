@@ -64,9 +64,9 @@ current_point = ax.scatter([], [], [], color='red', s=50)
 ax.set_xlim(-10, 30)
 ax.set_ylim(-13, 13)
 ax.set_zlim(0, A * 1.1)
-ax.set_xlabel('$x_1$')
-ax.set_ylabel('$x_2$')
-ax.set_zlabel('$f(x)$')
+ax.set_xlabel('$w_1$')
+ax.set_ylabel('$w_2$')
+ax.set_zlabel('$\mathcal{L}(w)$')
 ax.set_title("Gradient Descent into an Oval Canyon")
 
 # Slider axes
