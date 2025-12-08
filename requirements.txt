@@ -7,3 +7,4 @@ statsmodels
 imageio
 numpy
 scipy
+streamlit
