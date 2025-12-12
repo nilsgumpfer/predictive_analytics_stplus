@@ -1,5 +1,4 @@
 import cv2
-import torch
 import random
 import numpy as np
 from ultralytics import YOLO

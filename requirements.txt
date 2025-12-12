@@ -8,3 +8,5 @@ imageio
 numpy
 scipy
 streamlit
+ultralytics
+opencv-python
