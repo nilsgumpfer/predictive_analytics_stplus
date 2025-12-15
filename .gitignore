@@ -85,6 +85,7 @@ target/
 *.tar.gz
 *.~lock*
 *.csv
+*.pt
 .idea/
 logs/
 tables/

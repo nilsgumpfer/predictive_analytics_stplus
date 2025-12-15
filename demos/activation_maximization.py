@@ -1,3 +1,5 @@
+import os
+
 import matplotlib.pyplot as plt
 import numpy as np
 from tensorflow.keras.applications.vgg16 import VGG16
